@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# MossTSC
-MOSS (Matrix of Series-to-Space Symbols) is a CNN-based approach that transforms time series into spatial representations for enhanced classification.
-=======
 # 🚀 Matrix of Series-to-Space Symbols (MOSS) – CNN for Time Series Classification
 
 This repository contains the implementation of **MOSS (Matrix of Series-to-Space Symbols)**, a novel **Convolutional Neural Network (CNN)** architecture designed for **time series classification**. The method transforms time series data into a structured spatial representation, enabling improved feature extraction and classification performance.
@@ -86,4 +82,3 @@ Kopiuj
 ---
 
 This is a **clean, professional, and structured** README that is **ready to be pasted** into your re
->>>>>>> d9737f5 (Initial commit)
