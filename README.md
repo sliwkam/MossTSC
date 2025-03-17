@@ -13,7 +13,17 @@ This repository contains the implementation of **MOSS (Matrix of Series-to-Space
 
 
 ## 📂 Repository Structure
-/src - Main source code for MOSS /notebooks - Jupyter notebooks for experiments and visualization /data - Sample data or download instructions /results - Experimental results, figures, tables /docs - Additional documentation (optional) /models - Trained models (or links to download) .gitignore - Files to ignore in Git README.md - Project overview LICENSE - License information CITATION.cff - Citation details
+project-root/ 
+── src/ # Source code files 
+│ ├── main.py # Main application script 
+│ └── utils.py # Utility functions 
+├── docs/ # Documentation files 
+│ └── README.md # Documentation overview 
+├── tests/ # Unit and integration tests 
+│ └── test_main.py # Tests for main application 
+├── .gitignore # Git ignore file 
+├── requirements.txt # Python dependencies 
+└── README.md # Project overview and documentation
 
 yaml
 Kopiuj
