@@ -1,23 +1,16 @@
-<<<<<<< HEAD
-# MossTSC
-MOSS (Matrix of Series-to-Space Symbols) is a CNN-based approach that transforms time series into spatial representations for enhanced classification.
-=======
-# 🚀 Matrix of Series-to-Space Symbols (MOSS) – CNN for Time Series Classification
+# 🧊 Matrix of Series-to-Space Symbols (MOSS) – CNN for Time Series Classification
 
-This repository contains the implementation of **MOSS (Matrix of Series-to-Space Symbols)**, a novel **Convolutional Neural Network (CNN)** architecture designed for **time series classification**. The method transforms time series data into a structured spatial representation, enabling improved feature extraction and classification performance.
+This repository contains the implementation of **MOSS (Matrix of Series-to-Space Symbols)**, a novel **Convolutional Neural Network (CNN)** architecture designed for **time series classification**. The method transforms time series data into a structured spatial representation, enabling improved classification performance.
 
 📄 **Reference:**  
 🔗 *[Paper Title](#) – Author Name et al., 2025*  
 
----
 
 ## 📌 Features
-- 📊 **Series-to-Space Transformation** – Converts time series into structured spatial representations.
-- 🧠 **CNN-Based Classification** – Uses convolutional layers for feature extraction.
-- ⚡ **High Efficiency & Accuracy** – Optimized for performance and scalability.
-- 🔬 **Extensive Benchmarking** – Tested on multiple datasets with superior results.
+- 📊 **Series-to-Space transformation** – converts time series into structured spatial representations.
+- 🧠 **CNN-based classification** – uses convolutional layers for feature extraction.
+- 🔬 **Extensive benchmarking** – tested on multiple datasets with superior results.
 
----
 
 ## 📂 Repository Structure
 /src - Main source code for MOSS /notebooks - Jupyter notebooks for experiments and visualization /data - Sample data or download instructions /results - Experimental results, figures, tables /docs - Additional documentation (optional) /models - Trained models (or links to download) .gitignore - Files to ignore in Git README.md - Project overview LICENSE - License information CITATION.cff - Citation details
