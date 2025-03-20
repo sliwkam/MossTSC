@@ -50,7 +50,7 @@ Ensure you have **Python 3.8+** installed, then run:
 
 ```bash
 git clone https://github.com/sliwkam/MossTSC.git
-cd MossTsc
+cd MossTSC
 pip install -r requirements.txt
 ```
 
