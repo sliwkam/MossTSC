@@ -12,7 +12,7 @@ This repository contains the implementation of **MOSS (Matrix of Series-to-Space
 - 🔬 **Extensive benchmarking** – tested on multiple datasets with superior results.
 
 
-## 📂 Repository Structure
+## 📂 Repository structure
 
 ```plaintext
 project-root/
@@ -42,71 +42,58 @@ project-root/
 ├── LICENSE                                 # Project license
 ├── requirements.txt                        # Python dependencies
 └── README.md                               # Project overview and documentation
+```
 
 
-
-yaml
-Kopiuj
-
----
-
-## ⚙️ Installation & Dependencies
+## ⚙️ Installation & dependencies
 Ensure you have **Python 3.8+** installed, then run:
 
 ```bash
-git clone https://github.com/yourusername/MOSS.git
-cd MOSS
+git clone https://github.com/sliwkam/MossTSC.git
+cd MossTsc
 pip install -r requirements.txt
-To set up a Conda environment:
+```
 
-bash
-Kopiuj
+To set up a Conda environment:
+```bash
 conda create --name moss-env python=3.9
 conda activate moss-env
 pip install -r requirements.txt
-🚀 Usage
-Run the model with:
+```
 
-bash
-Kopiuj
-python src/main.py --input data/sample.csv --epochs 50
-Example Notebook
-For interactive experiments, check notebooks/demo.ipynb.
+## 🚀 Usage
+To run the model, open and execute the Jupyter Notebook provided in the repository:
+```bash
+notebooks/example_run.ipynb
+```
+This notebook contains step-by-step instructions on how to load, configure, and use the model. Make sure you have all dependencies installed before running it.
 
-📊 Results
-Achieved state-of-the-art accuracy on benchmark time series datasets.
-Faster convergence and improved generalization compared to traditional methods.
-Detailed results and visualizations are available in the /results folder.
-📜 Citation
+
+## 📊 Results
+* Achieves competitive accuracy on benchmark time series datasets, performing on par with state-of-the-art neural network classifiers.
+* Demonstrates improved generalization compared to traditional CNN-method.
+* Detailed results and visualizations are available in the /results folder.
+
+## 📜 Citation
 If you use MOSS in your research, please cite our paper:
 
-bibtex
-Kopiuj
-@article{YourPaper2025,
-  author = {Your Name and Co-Authors},
-  title = {Matrix of Series-to-Space Symbols (MOSS) – Convolutional Neural Network for Time Series Classification},
+```bibtex
+@article{MOSSTSC2025,
+  author = {},
+  title = {},
   journal = {Journal Name},
   year = {2025},
   doi = {10.XXXX/XXXXXXX}
 }
-📌 License
+```
+
+## 📌 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-🤝 Contributing
-Contributions are welcome! Please open an issue or submit a pull request.
-
-📩 Contact
+## 📩 Contact
 For questions or collaborations, feel free to reach out:
 
-📧 Email: your.email@example.com
-🌐 Website: Your Website
+📧 Email: mateusz.sliwka.dokt@pw.edu.pl
+🌐 Website: [LinkedIn](https://www.linkedin.com/in/mateusz-sliwka/)
 
-🚀 Happy Coding & Research! 🎯
-
-yaml
-Kopiuj
-
----
-
-This is a **clean, professional, and structured** README that is **ready to be pasted** into your re
->>>>>>> d9737f5 (Initial commit)
+🚀 Happy coding & research! 🎯
