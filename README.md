@@ -3,7 +3,7 @@
 This repository contains the implementation of **MOSS (Matrix of Series-to-Space Symbols)**, a novel **Convolutional Neural Network (CNN)** architecture designed for **time series classification**. The method transforms time series data into a structured spatial representation, enabling improved classification performance.
 
 📄 **Reference:**  
-🔗 *[Paper Title](#) – Author Name et al., 2025*  
+🔗 *[Matrix of Series-to-Space Symbols (MOSS) – Convolutional Neural Network in Force of Time Series Classification](#)
 
 
 ## 📌 Features
@@ -78,12 +78,12 @@ This notebook contains step-by-step instructions on how to load, configure, and 
 If you use MOSS in your research, please cite our paper:
 
 ```bibtex
-@article{MOSSTSC2025,
+@article{MOSSTSC,
   author = {},
   title = {},
-  journal = {Journal Name},
-  year = {2025},
-  doi = {10.XXXX/XXXXXXX}
+  journal = {},
+  year = {},
+  doi = {}
 }
 ```
 
